@@ -2,7 +2,6 @@
 
 This project is a simple implementation of elliptic curve cryptography (ECC) in Python. It shows how messages can be encrypted and decrypted using points on a mathematical curve.
 
----
 
 ## What it does
 
@@ -13,7 +12,7 @@ This project is a simple implementation of elliptic curve cryptography (ECC) in 
 * Encrypts each character using a random value
 * Decrypts the message back to readable text
 
----
+
 
 ## Running the program
 Just run main.py.
@@ -22,4 +21,4 @@ Just run main.py.
 This is a just a project I made to understand and implement ECC, it is not secure for real applications at all. Small curves
 are used, which are easy to break.
 
----
+
